@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Delicious Cookie For EveryTaste"; ObjectID = "BE5-lQ-vh9"; */
+"BE5-lQ-vh9.text" = "Her Damak Tadına Uygun Lezzetli Kurabiye";
+
+/* Class = "UILabel"; text = "Cookie"; ObjectID = "UAz-HW-sJY"; */
+"UAz-HW-sJY.text" = "Kurabiye";
+
+/* Class = "UIButton"; configuration.title = "ADD TO CART"; ObjectID = "W9S-JQ-a6V"; */
+"W9S-JQ-a6V.configuration.title" = "SEPETE EKLE";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "W9S-JQ-a6V"; */
+"W9S-JQ-a6V.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "$ 1.00"; ObjectID = "cV0-zK-UDJ"; */
+"cV0-zK-UDJ.text" = "1.00 ₺";
+
+/* Class = "UILabel"; text = "Delicious cookie for everyone with home delivery or pick from the restaurant."; ObjectID = "ooq-dX-Heu"; */
+"ooq-dX-Heu.text" = "Herkese eve teslim veya restorandan seçmeli leziz kurabiye.";
